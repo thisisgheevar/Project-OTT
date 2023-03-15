@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1586900274-91sustfojbl-ac-sy879-1586900238.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
